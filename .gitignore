@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Venvs
+.venv/
+env/
+
+# Data and run outputs
+data/chunks/
+data/qdrant/
+runs/
+
+# Local env vars
+.env
