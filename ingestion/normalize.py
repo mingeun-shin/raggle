@@ -1,0 +1,3 @@
+"""Text cleanup applied to all documents before chunking."""
+
+def normalize(text: str) -> str: ...

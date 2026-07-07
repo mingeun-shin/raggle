@@ -1,0 +1,3 @@
+"""Thin Anthropic client wrapper."""
+
+def complete(prompt: str, max_tokens: int = 1024, temperature: float = 0.0) -> str: ...

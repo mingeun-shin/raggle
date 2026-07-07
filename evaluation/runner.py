@@ -1,0 +1,3 @@
+"""Runs full eval, aggregates, writes timestamped report to runs/."""
+
+def run_eval(dataset_path: str) -> dict: ...
