@@ -1,0 +1,3 @@
+"""Prompt templates for answer generation."""
+
+def build_answer_prompt(query: str, contexts: list[str]) -> str: ...
